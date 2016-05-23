@@ -1,0 +1,9 @@
+- gpe_tfidf_binned_yearly.csv
+    - same file as on dropbox, second run of gpe tfidf yearly
+- pops.csv  
+    - quickly created by grepping log file from second run of gpe tfidf yearly
+    - gives size of anc and dec population for each year
+- pop_size.csv
+    - some metadata that I (alex) generated in decemeber15/january16 
+    - some things are mislabeled, as I misunderstood conventions and our naming
+
